@@ -1,0 +1,28 @@
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.exe
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.deps.json
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.runtimeconfig.json
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.dll
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.pdb
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.dll
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.pdb
+C:\Users\ASUS\Desktop\OOP2\12-9-2021 Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.genruntimeconfig.cache
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.exe
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.deps.json
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.runtimeconfig.json
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.runtimeconfig.dev.json
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.dll
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.pdb
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.csproj.AssemblyReference.cache
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.GeneratedMSBuildEditorConfig.editorconfig
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.AssemblyInfoInputs.cache
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.AssemblyInfo.cs
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.csproj.CoreCompileInputs.cache
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.dll
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.pdb
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\Lab-1\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.genruntimeconfig.cache

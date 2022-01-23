@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\obj\Debug\netcoreapp3.1\Contact.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\obj\Debug\netcoreapp3.1\Contact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\obj\Debug\netcoreapp3.1\Contact.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\obj\Debug\netcoreapp3.1\Contact.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\obj\Debug\netcoreapp3.1\Contact.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\bin\Debug\netcoreapp3.1\Contact.exe
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\bin\Debug\netcoreapp3.1\Contact.deps.json
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\bin\Debug\netcoreapp3.1\Contact.runtimeconfig.json
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\bin\Debug\netcoreapp3.1\Contact.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\bin\Debug\netcoreapp3.1\Contact.dll
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\bin\Debug\netcoreapp3.1\Contact.pdb
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\obj\Debug\netcoreapp3.1\Contact.dll
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\obj\Debug\netcoreapp3.1\Contact.pdb
+C:\Users\ASUS\Desktop\OOP2\17-10-2021\17-10-2021\Task-1\Contact\obj\Debug\netcoreapp3.1\Contact.genruntimeconfig.cache

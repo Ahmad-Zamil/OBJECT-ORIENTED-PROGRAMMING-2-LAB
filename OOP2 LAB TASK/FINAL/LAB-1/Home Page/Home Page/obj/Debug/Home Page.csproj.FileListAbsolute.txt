@@ -1,0 +1,10 @@
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\bin\Debug\Home Page.exe.config
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\bin\Debug\Home Page.exe
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\bin\Debug\Home Page.pdb
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\obj\Debug\Home Page.csproj.AssemblyReference.cache
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\obj\Debug\Home_Page.Form1.resources
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\obj\Debug\Home_Page.Properties.Resources.resources
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\obj\Debug\Home Page.csproj.GenerateResource.cache
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\obj\Debug\Home Page.csproj.CoreCompileInputs.cache
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\obj\Debug\Home Page.exe
+G:\AIUB 1\9th Semester\OOP2 By MD. NAZMUL HOSSAIN\LAB\FINAL\11-7-2021\Home Page\Home Page\obj\Debug\Home Page.pdb

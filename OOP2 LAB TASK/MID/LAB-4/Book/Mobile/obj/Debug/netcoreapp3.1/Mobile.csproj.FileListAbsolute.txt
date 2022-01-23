@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\bin\Debug\netcoreapp3.1\Mobile.exe
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\bin\Debug\netcoreapp3.1\Mobile.deps.json
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\bin\Debug\netcoreapp3.1\Mobile.runtimeconfig.json
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\bin\Debug\netcoreapp3.1\Mobile.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\bin\Debug\netcoreapp3.1\Mobile.dll
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\bin\Debug\netcoreapp3.1\Mobile.pdb
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\obj\Debug\netcoreapp3.1\Mobile.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\obj\Debug\netcoreapp3.1\Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\obj\Debug\netcoreapp3.1\Mobile.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\obj\Debug\netcoreapp3.1\Mobile.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\obj\Debug\netcoreapp3.1\Mobile.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\obj\Debug\netcoreapp3.1\Mobile.dll
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\obj\Debug\netcoreapp3.1\Mobile.pdb
+C:\Users\ASUS\Desktop\OOP2\10-10-2021 LAB-4\Book\Mobile\obj\Debug\netcoreapp3.1\Mobile.genruntimeconfig.cache

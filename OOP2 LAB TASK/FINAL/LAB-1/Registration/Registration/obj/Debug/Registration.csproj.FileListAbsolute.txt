@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\obj\Debug\Registration.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\obj\Debug\Registration.Form1.resources
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\ASUS\Desktop\OOP2\FINAL\11-7-2021\Registration\Registration\obj\Debug\Registration.pdb
